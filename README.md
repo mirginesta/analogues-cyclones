@@ -2,7 +2,7 @@
 
 This Python package computes analogues of cyclones using a method based on pattern recurrences in mean sea-level pressure [Yiou 2014]. 
 
-## Preparation of the data
+## Set up
 
 This package is meant for the use of 6-hourly data.
 
