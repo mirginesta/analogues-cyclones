@@ -7,7 +7,7 @@ setuptools.setup(
     name="analogues-cyclones",
     version="0.1.0",
     author="Mireia Ginesta",
-    author_email="Mireia.Ginesta-Fernandez@lsce.ipsl.fr",
+    author_email="Mireia.Ginesta@smithschool.ox.ac.uk",
     description="Python package for computing analogues of cyclones",
     long_description=long_description,
     long_description_content_type="text/markdown",
