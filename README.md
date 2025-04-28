@@ -46,7 +46,7 @@ dist_N_analogues, index_N_analogues = analogues(Y, N)
 
 Yiou P (2014) Anawege: a weather generator based on analogues of atmospheric circulation. Geosci Model Dev 7(2):531–543. https://doi. org/ 10. 5194/ gmd-7- 531- 2014
 
-Ginesta, M., Yiou, P., Messori, G., & Faranda, D. (2022). A methodology for attributing severe extratropical cyclones to climate change based on reanalysis data: the case study of storm Alex 2020. Climate Dynamics, 1-25
+Ginesta, M., Yiou, P., Messori, G., & Faranda, D. (2023). A methodology for attributing severe extratropical cyclones to climate change based on reanalysis data: the case study of storm Alex 2020. Climate Dynamics, 61(1), 229-253.
 
 
 
